@@ -8,7 +8,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
--	[`0.21.0`](https://github.com/isdnetworks/docker-litecoind/blob/master/Dockerfile)
+-	[`0.18.1`](https://github.com/isdnetworks/docker-litecoind/blob/master/Dockerfile)
 
 # Quick reference (cont.)
 
